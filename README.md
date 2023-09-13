@@ -1,6 +1,6 @@
 # Project Name
 
-Checkout Apps
+Checkout App
 
 ## Description
 
